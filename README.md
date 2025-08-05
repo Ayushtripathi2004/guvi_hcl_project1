@@ -6,7 +6,6 @@ This dashboard helps track travel bookings in Ayodhya by destination, trip type,
 ## 👤 Created By
 **Ayush Tripathi**  
 IIT Patna | GUVI - HCL Intern  
-Date: July 31, 2025
 
 ## 💡 Features
 - Total bookings & average cost (KPIs)
